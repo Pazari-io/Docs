@@ -16,4 +16,4 @@ For the consumer, opportunity.
 * ***<font color='salmon'>For consumers,</font>*** Pazari presents a connection to your favorite content in a way not yet imagined. The ability to support content creators has never been more streamlined in the digital world. Pazari <font color='salmon'>*brings the best*</font> that can be offered to you by enabling creators to bring you more content, ranging from NFTs to music. Powered by block chain can be frightening, but Pazari has you covered. Ease of use is critical for both you and your favorite creators. As the Pazari platform continues to grow, we will touch on the advantages that it can bring to you.
 
 
-The gateway to your digital future. [Pazari](pazari.io)
+The gateway to your digital future. [Pazari](https://pazari.io)
