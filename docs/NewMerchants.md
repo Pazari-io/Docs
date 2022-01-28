@@ -15,11 +15,11 @@ Pazari does not charge anything for new users to sign up, but the Avalanche netw
    Once the tokenization process is ready for the last stage--minting your tokens--a Metamask pop-up will appear asking you to confirm a transaction and will tell you how much the "gas fee" is (in AVAX). Click confirm and wait several seconds for the blockchain network to receive and process your order, it should take no longer than about 5 seconds to get a response. You'll know when it worked if you hear a little chime and see a notification in the bottom right corner of the screen saying "Transaction Confirmed!".
 
 ### 2. That's it, there is no Step 2, you're done!
-You are now officially a Pazari Merchant! Congratulations! We hope your time here is profitable and enjoyable!
+Your wallet is now officially a Pazari Merchant! Congratulations! We hope your time here is profitable and enjoyable!
 
 If you would like to list any more items, then just repeat the exact same process. There is nothing different.
 
-Be sure to check out our upcoming guide on cashing out your earnings to a bank account once you've got a nice stack of Magic Internet Money to sell. **Do not send it directly to an exchange account or you will lose it!** Thank you are joining the Pazari digital market revolution, we are happy to have you here!
+Be sure to check out our upcoming guide on cashing out your earnings to a bank account once you've got a nice stack of Magic Internet Money to sell. **Do not send it directly to an exchange account or you will lose it!** Thank you for joining the Pazari digital market revolution, we are happy to have you here!
 
 ### Bonus Step: Completing your profile
 Click on your profile icon in the top-right where you found the Upload Item button, and visit your Profile. From here you can fill out your profile information that will be seen by buyers on your market items.
