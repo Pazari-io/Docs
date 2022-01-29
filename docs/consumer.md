@@ -1,7 +1,6 @@
 ---
-sidebar_position: 2
+id : consumer
 ---
-
 # The Pazari Advantage For Consumers
 
 

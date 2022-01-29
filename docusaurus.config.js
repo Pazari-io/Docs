@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Pazari',
   tagline: 'Indie Publication Revolution',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://pazari.io',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -55,7 +55,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'pazariintro',
             position: 'left',
             label: 'Docs',
           },
@@ -85,11 +85,11 @@ const config = {
            
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/pazari.io',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/pazariio',
               },
             ],
           },

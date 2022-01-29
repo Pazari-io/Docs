@@ -1,3 +1,6 @@
+---
+id : buyers
+---
 # Buyers
 ## Quick Rundown
 Did you open an Avalanche wallet, download + install Metamask, import your Avalanche wallet to Metamask, and then obtain some AVAX? If not, then go back and do that first. If you did, then we're ready to move on!

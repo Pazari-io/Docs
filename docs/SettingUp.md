@@ -1,3 +1,6 @@
+---
+id : settingup
+---
 # Setting Up for Web3
 The first two things everyone will need, whether they are buyers or Merchants, is the Metamask browser extension and an Avalanche wallet. If you already have these things, then skip ahead to the next section, otherwise keep reading.
 

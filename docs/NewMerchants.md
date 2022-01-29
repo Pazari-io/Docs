@@ -1,3 +1,6 @@
+---
+id : newmerchants
+---
 # Sellers/Merchants
 ## Quick Rundown
 To become a Merchant on Pazari all you need to do is put an item up for sale. You will be automatically given a Merchant's profile linked to your Metamask browser wallet, and it is not important to fill out immediately. Thanks to our one-click-wonder button you don't need to do a bunch of complicated blockchain transactions, only one transaction will be required, and no personal information needs to be taken in as part of profile creation.

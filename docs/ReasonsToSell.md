@@ -1,3 +1,7 @@
+---
+id : forbuyers
+title: Guide for buyers
+---
 # Introduction
 Pazari is a digital-only marketplace built on Web3, and aims to become a place where you can buy *anything* digital--within reason.
 
