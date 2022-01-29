@@ -1,21 +1,4 @@
----
-id : forbuyers
-title: Guide for buyers
----
 # Introduction
-Pazari is a digital-only marketplace built on Web3, and aims to become a place where you can buy *anything* digital--within reason.
-
-Pazari is comparable to Shutterstock in the same way Amazon is comparible to a gas station. At a first glance Pazari looks like another Shutterstock, but look closer and you'll find that Pazari sells many additional "things" that Shutterstock does not. 
-
-*Anything* that can be tokenized can be sold on Pazari, and almost anything can be tokenized--and Pazari will slowly roll out support for many different kinds of tokenized goods, from the most obvious to the most exotic. 
-
-Pazari is not just a place to buy stock art and other assets, eventually you will find much more than that in things like ebooks, NFTs, gaming, subscriptions, online services, charitable causes, startup fundraising, venture capital investing, DeFi--the list goes on and on. 
-
-Pazari is a *universal* digital marketplace. If you can store something in a website URL, then you can tokenize it and sell it on Pazari, even if it is something unusual or abstract. Pazari also facilitates the tokenization process and makes it very easy for its Merchants to get what they want to sell onto the marketplace in a tokenized form, and will also facilitate the creation and sale of NFTs.
-
-Pazari will be owned and ran by its Merchants through a DAO-like entity, and so it will not be subjected to the same level of centralized governance that is present in most Web2 platforms and corporations. We believe centralization of power over a platform that processes huge amounts of value only leads to the creation of greedy and harmful policy changes, and eventually launches damaging enforcement actions against its own sellers. Pazari will not be run by a CEO or a board of directors, but instead will be run by its Merchants through a majority voting system.
-
-We believe this approach to digital marketplaces will ultimately provide a more interesting and rewarding experience for all users.
 
 ## The Problem
 Let's just look at two of the biggest Web2 platforms that sell digital file downloads. Shutterstock lets you keep a whole 15% of your item sales just starting out, and then they have the courtesy of letting you keep 40% when you're successful. Amazon takes 70% of your ebook sales if you sell outside the price range of $2.99 - $9.99, and they're kind enough to only take 30% if you sell within their preferred range.
@@ -159,11 +142,3 @@ However, selling junk content on Pazari will earn negative achievements, and wil
 
 # Conclusion
 We are excited to bring Pazari to the world, and we sincerely hope that you can change your life by selling through the Pazari marketplace. There are immediate benefits that are superior to Web2 just during Pazari's early days, and there will be many very powerful benefits and features that will be rolled out over time as Pazari grows from an idea and proof of concept into a Web3 leviathan of the Digital Age.
-
-
-
-
-
-
-
-
