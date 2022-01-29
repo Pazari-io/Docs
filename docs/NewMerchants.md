@@ -21,6 +21,7 @@ If you would like to list any more items, then just repeat the exact same proces
 
 Be sure to check out our upcoming guide on cashing out your earnings to a bank account once you've got a nice stack of Magic Internet Money to sell. **Do not send it directly to an exchange account or you will lose it!** Thank you for joining the Pazari digital market revolution, we are happy to have you here!
 
+
 ### Bonus Step: Completing your profile
 Click on your profile icon in the top-right where you found the Upload Item button, and visit your Profile. From here you can fill out your profile information that will be seen by buyers on your market items.
 
