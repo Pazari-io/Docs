@@ -1,18 +1,6 @@
----
-id : forsellers
-title: Guide for sellers
----
-# Introduction
-Pazari is a digital-only marketplace built on Web3, and aims to become a place where you can buy *anything* digital--within reason.
-
-At a first glance Pazari looks like another Shutterstock, but Pazari aims to be far more than that. Pazari is comparable to Shutterstock in the same way Amazon is comparible to a newspaper stand. They both sell things, but one business sells a *lot* more than the other--both in variety and quantity. Pazari is not comparable to Amazon though, as physical items are not sold here. Pazari's main function looks like Shutterstock, but its variety of file types will rival that of The Pirate Bay--without the pirates.
-
-For now, the number of file types that Pazari will support will be limited, but over time Pazari will roll out support for many different kinds of tokenized goods, from the most obvious to the most exotic. Anything that can be "tokenized" can be sold on Pazari, and anything digital can be tokenized.
-
-Pazari is not just a place to buy stock art and other assets, eventually you will find much more than that in items like ebooks, NFTs, gaming, subscriptions, online services, charitable causes, startup fundraising, venture capital investing, DeFi--the list goes on and on. Again, anything that can be *tokenized* can be sold on Pazari.
-
-
 # Reasons to Buy
+There are a number of reasons why you should shop on Pazari!
+
 ## Pazari sells tokenized content
 When you shop on Pazari you aren't shopping for digital downloads or content, you are shopping for tokens, which can have very different uses or perks depending on the Merchant. Some tokens are just digital content like what you could find on Shutterstock, but some tokens are much more than that.
 
@@ -21,6 +9,11 @@ Pazari's underlying engine automatically tokenizes the content that is sold on i
 The primary benefit is that as long as you have access to your crypto wallet then you will have access to all the content you've bought on Pazari as well, even if your device dies.
 
 As a secondary benefit, Merchants on Pazari are encouraged to explore token holder benefits as a way to provide more value than their content alone can provide. By being a token holder of these Merchants you will gain access to opportunities like special benefits, perks, unlockable content, giveaways, and even entry to online token holder communities or membership areas--whatever the Merchant chooses to do. We encourage Merchants to make this a core feature of their business on Pazari, as it utilizes the biggest advantages of cryptocurrency tokens to explore new business models.
+
+## Join and participate in communities and DAOs
+Not only can tokens be used for token holder rewards and benefits, but they can also be used for the establishment and management of Decentralized Autonomous Organizations--or DAOs.
+
+If
 
 ## No credit cards or banks
 You don't need to provide any banking information *at all* to use Pazari, since Pazari runs on stablecoins and cryptocurrency. Stablecoins are programmable and can be sent from one person to another without the use of a bank, and the transfer happens much faster than a bank transfer--and the Merchants don't have to pay credit card fees nor must they account for clawbacks in their business models.
