@@ -2,6 +2,11 @@
 
 This repository contains all documentiation and blogs by Pazari team.
 
+## Black Paper 
+
+Meanwhile, we are working to make our docs awesome you can quickly gain a lot of information by reading our [black paper.](https://pazari-storage.sgp1.cdn.digitaloceanspaces.com/MVP/pazari_black_paper.pdf)
+
+
 ## What is Pazari?
 Pazari is a digital-only goods/assets marketplace that can be described as "Web3 Shutterstock on Steroids". Pazari aims to be a one-stop-shop for any kind of digital file, not just stock assets like Shutterstock offers, but even entire programs, software, and data files will be sellable as well. Pazari is a platform that Merchants of all types and from all disciplines can find a market for their skills, no matter how big or small--and all Merchants who sell on Pazari keep far more than their peers on Web2 platforms.
 
