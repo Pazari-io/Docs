@@ -7,7 +7,7 @@ sidebar_position: 2
 ## Pazari is a digital market for the digital age
 Pazari is a digital-only marketplace built on Web3, and aims to become a place where you can buy *anything* digital. Unlike Web2 platforms, Pazari specializes in selling tokens and tokenized content.
 
-At a first glance Pazari looks like another Shutterstock, but Pazari aims to be far more than that. Pazari is comparable to Shutterstock in the same way Amazon is comparible to a newspaper stand--they both sell things and have some overlap, but one business sells a *lot* more than the other, both in variety and quantity. Pazari's variety of file types will rival that of The Pirate Bay--but without the pirates.
+At a first glance Pazari looks like another Shutterstock , Evanto Elements, Getty, but Pazari aims to be far more than that. Pazari is comparable to these products in the same way Amazon is comparible to a newspaper stand--they both sell things and have some overlap, but one business sells a *lot* more than the other, both in variety and quantity. Pazari's variety of file types will rival that of The Pirate Bay--but without the pirates. Pazari in novel and utilize Web3 to make life a lot easier for indie publishers at current stage. 
 
 For now, the number of file types that Pazari will support will be limited, but over time Pazari will roll out support for many different kinds of tokenized goods, from the most obvious to the most exotic. Anything that can be "tokenized" can be sold on Pazari, and anything digital can be tokenized. Pazari aims to provide a marketplace for even the most rare and interesting tokens that cannot exist anywhere else.
 
