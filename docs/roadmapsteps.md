@@ -6,7 +6,7 @@ title: RoadMap
 This is a rough outline of our roadmap, to be worked on in much greater depth post-hackathon. Note that the biggest obstacle to the completion of roadmap milestones is a lack of front-end developers. Securing some funding is a priority for this project so we can increase the size of our team.
 
 ## Q1 2022
-- Survive and win the Avalanche hackathon
+- Survive and win the Avalanche/Moralis hackathon
 - Establish social media channels
 - Begin writing on Pazari Blog
 - Deployment of functional MVP on Fuji testnet
