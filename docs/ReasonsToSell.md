@@ -1,3 +1,8 @@
+---
+id : forsellers
+title: Guide for seller
+---
+
 # Introduction
 
 ## The Problem

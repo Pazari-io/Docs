@@ -1,3 +1,8 @@
+---
+id : forbuyers
+title: Guide for buyers
+---
+
 # Reasons to Buy
 There are a number of reasons why you should shop on Pazari!
 
