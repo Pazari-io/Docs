@@ -24,7 +24,8 @@ const sidebars = {
       items: [
        'pazariintro',
        'intro',
-       'settingup'
+       'settingup',
+       'buyers'
       ],
     },
     
@@ -48,7 +49,6 @@ const sidebars = {
       collapsible: true,
       collapsed: false,
       items: [
-        'buyers',
        'forsellers',
        'forbuyers'
       ],

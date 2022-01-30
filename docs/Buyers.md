@@ -1,5 +1,6 @@
 ---
 id : buyers
+title : How to buy
 ---
 # Buyers Guide
 ## Quick Rundown
