@@ -3,6 +3,9 @@ sidebar_position: 2
 ---
 
 # What is Pazari?
+## Black Paper 
+
+Meanwhile, we are working to make our docs awesome you can quickly gain a lot of information by reading our [black paper.](https://pazari-storage.sgp1.cdn.digitaloceanspaces.com/MVP/pazari_black_paper.pdf)
 
 ## Pazari is a digital market for the digital age
 Pazari is a digital-only marketplace built on Web3, and aims to become a place where you can buy *anything* digital. Unlike Web2 platforms, Pazari specializes in selling tokens and tokenized content.

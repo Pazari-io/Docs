@@ -55,15 +55,11 @@ const sidebars = {
     },
 
 
-    
-
-
-
-    // {
-    //   type: 'doc',
-    //   id: 'newmerchants', // document id
-    //   label: 'How to sell', // sidebar label
-    // },
+    {
+      type: 'doc',
+      id: 'roadmap', // document id
+      label: 'RoadMap', // sidebar label
+    },
 
 
 
